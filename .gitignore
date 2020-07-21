@@ -1,0 +1,6 @@
+*.pyc
+/MANIFEST
+/dist/
+/*.egg*/
+/.cache/
+*/__pycache__/
